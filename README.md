@@ -6,4 +6,4 @@ normal
 *italic*
 **bold**
 
-https://paulradzkov.com/2014/markdown_cheatsheet/
+[Краткое руководство по Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
