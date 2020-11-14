@@ -1,3 +1,4 @@
+// @ts-check -- enable type checking
 'use strict';
 
 function test(){
